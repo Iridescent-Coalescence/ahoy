@@ -78,7 +78,7 @@ My journey:
   <h4>~1135+ <i>hours</i></h4>
 
 <h3>Total Time spent <i>Practicing</i> && <i>Researching</i> && <i>Reading Docs</i>:</h3>
-  <h4>(Est.) 900 <i>additional hours</i></h4>
+  <h4>(Est.) 550 <i>additional hours</i></h4>
 
-<h3>Estimated <i>Total Time Spent Training</i>:</h3>
-  <h4>~2000+ <i>hours</i></h4>
+<h3>Estimated <i>Total Time Spent Training: </i>:</h3>
+  <h4>~1700+ <i>hours</i></h4>
