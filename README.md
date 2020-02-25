@@ -64,6 +64,7 @@ My journey:
    <h1>Thank you to all of the incredible people who are offering this treasure trove of information!</h1>
     <ul>
       <h3>Almost all of the instructors / creators I have linked here can be found on Youtube or Udemy and their courses are either free or less than $15 per course -- (find a coupon code for Udemy!)<h3>
+      <h3>Also, big shoutout to Google for maintaining such great engines (Both Search, and V8!) Thanks!</h3>
     </ul>
 <hr>
 <h3>NOTE: The times listed are only an estimate of the time it took ME to complete these courses. You may be faster, or slower - Up to you!</h3>
