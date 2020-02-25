@@ -46,7 +46,7 @@ My journey:
   <h2>This Year (2020) Courses I have Completed include:</h2>
     <ul>
       <li>Understanding Typescript <i>(75+ hours)</i></li>
-      <li>Javascript The Complete Guide<i>(175+ hours)</i></li>
+      <li>Javascript The Complete Guide <i>(175+ hours)</i></li>
     </ul>
     <h3>These are both on Udemy from Academind</h3>
   <hr>
@@ -64,20 +64,21 @@ My journey:
    <h1>Thank you to all of the incredible people who are offering this treasure trove of information!</h1>
     <ul>
       <h3>Almost all of the instructors / creators I have linked here can be found on Youtube or Udemy and their courses are either free or less than $15 per course -- (find a coupon code for Udemy!)<h3>
-      <h3>NOTE: The times listed are only an estimate of the time it took ME to complete these courses. You may be faster, or slower - Up to you!</h3>
     </ul>
-  <hr>
+<hr>
+<h3>NOTE: The times listed are only an estimate of the time it took ME to complete these courses. You may be faster, or slower - Up to you!</h3>
+<hr>
+<hr>
+<h2>AS OF FEB 2020</h2>
 
-<h1>AS OF FEB 2020</h1>
+<h3>Total <b>Money</b> Spent on Training:</h3>
+  <h4>Just Shy of <i>$100 USD</i></h4>
 
-<h1>Total Money Spent on Training:</h1>
-  <h2>Just Shy of $100 USD</h2>
+<h3>Total Time spent on <b>Courses</b></h3>
+  <h4>~1135+ <i>hours</i></h4>
 
-<h1>Total Time spent on Courses</h1>
-  <h2>~1135+ hours</h2>
+<h3>Total Time spent <b>Practicing</b> && <b>Researching</b> && <b>Reading Docs</b>:</h3>
+  <h4>(Est.) 900 <i>additional hours</i></h4>
 
-<h1>Total Time spent Practicing && Researching && Reading Docs:</h1>
-  <h2>(Est.) 900 additional hours</h2>
-
-<h1>Estimated Total Time Spent Training: </h1>
-  <h2>~2000+ hours</h2>
+<h3>Estimated <b>Total Time Spent Training</b>:</h3>
+  <h4>~2000+ <i>hours</i></h4>
