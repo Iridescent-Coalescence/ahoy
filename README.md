@@ -64,7 +64,7 @@ My journey:
    <h1>Thank you to all of the incredible people who are offering this treasure trove of information!</h1>
     <ul>
       <h3>Almost all of the instructors / creators I have linked here can be found on Youtube or Udemy and their courses are either free or less than $15 per course -- (find a coupon code for Udemy!)<h3>
-      <h3>Thank you to everyone who writes free informational articles! There are so many of you that I have bookmarked, and so many That I wish I had! Thank You!</h3>
+      <h3>Thank you to everyone who writes free informational articles! There are so many that I have bookmarked, and so many that I wish I had! Thank You!</h3>
       <h3>Also, big shoutout to Google for maintaining such great engines (Both Search, and V8!). Without search I would not have found even half of this amazing content. Thank You!</h3>
     </ul>
 <hr>
