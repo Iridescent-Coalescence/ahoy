@@ -1,17 +1,17 @@
 # Ahoy there Mateys'! (Hello World!)
 My journey:
-  <h2>Last year (2018) I started down the path to get informed about tech</h2>
+  <h2>Mid 2018 I started down the path to get informed about tech</h2>
   <ul>Over the course of the year I became certifited through Comptia:
   <br><b>A+ --> Network+ --> Security+</b><i>(300+ hours)</i></ul>
   <table>
   <th>This was nearly entirely due to the help of these amazing people:</th>
-  <tr><td>Professor Messer : https://www.professormesser.com/</td><tr>
+  <tr><td>Professor Messer(youtube.com) : https://www.professormesser.com/</td><tr>
     <tr><td>Mike Meyers (lynda.com): https://www.totalsem.com/</td></tr>
   </td>
   </table>
   
   <hr>
-  <h2>This year (2019) I started with Zero knowledge of JavaScript - I have learned so so much!</h2>
+  <h2>Last year (2019) I started with Zero knowledge of JavaScript - I have learned so so much!</h2>
   
   <ul><b>This describes my path:</b></ul>
      <ul>
@@ -39,9 +39,16 @@ My journey:
    
   <hr>
   <ul>
-  <b>I am currently also taking Docker Mastery and Docker for NodeJS by the wonderful (Captain) Bret Fisher on Udemy
+  <b>I also took Docker Mastery (40+ hours) and Docker for NodeJS (25+ hours) by the wonderful (Captain) Bret Fisher on Udemy
     https://www.bretfisher.com/</b>
   </ul>
+  <hr>
+  <h2>This Year (2020) Courses I have Completed include:</h2>
+    <ul>
+      <li>Understanding Typescript <i>(75+ hours)</i></li>
+      <li>Javascript The Complete Guide<i>(175+ hours)</i></li>
+    </ul>
+    <h3>These are both on Udemy from Academind</h3>
   <hr>
   <ul>
   <h2>Also check out:</h2>
@@ -49,10 +56,28 @@ My journey:
   <br>
   https://networkchuck.com/
   <br>
-  https://wesbos.com/
+  https://wesbos.com
+  <br>
+  https://linustechtips.com/main/ (also on Youtube)
   </ul>
    
    <h1>Thank you to all of the incredible people who are offering this treasure trove of information!</h1>
-    <ul><h3>Every single instructor / creator I have linked here can be found on Youtube or Udemy and their courses are either free or less than $15 per course -- (find a coupon code for Udemy!)<h3></ul>
+    <ul>
+      <h3>Almost all of the instructors / creators I have linked here can be found on Youtube or Udemy and their courses are either free or less than $15 per course -- (find a coupon code for Udemy!)<h3>
+      <h3>NOTE: The times listed are only an estimate of the time it took ME to complete these courses. You may be faster, or slower - Up to you!</h3>
+    </ul>
+  <hr>
 
+<h1>AS OF FEB 2020</h1>
 
+<h1>Total Money Spent on Training:</h1>
+  <h2>Just Shy of $100 USD</h2>
+
+<h1>Total Time spent on Courses</h1>
+  <h2>~1135+ hours</h2>
+
+<h1>Total Time spent Practicing && Researching && Reading Docs:</h1>
+  <h2>(Est.) 900 additional hours</h2>
+
+<h1>Estimated Total Time Spent Training: </h1>
+  <h2>~2000+ hours</h2>
