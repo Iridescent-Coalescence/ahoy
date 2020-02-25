@@ -64,8 +64,14 @@ My journey:
    <h1>Thank you to all of the incredible people who are offering this treasure trove of information!</h1>
     <ul>
       <h3>Almost all of the instructors / creators I have linked here can be found on Youtube or Udemy and their courses are either free or less than $15 per course -- (find a coupon code for Udemy!)<h3>
+      <h3>Thank you to all of my teachers! Without you the world would surely not be so bright!</h3>
       <h3>Thank you to everyone who writes free informational articles! There are so many that I have bookmarked, and so many that I wish I had! Thank You!</h3>
-      <h3>Also, big shoutout to Google for maintaining such great engines (Both Search, and V8!). Without search I would not have found even half of this amazing content. Thank You!</h3>
+      <h3>Big shoutout to Google for maintaining such great engines (Both Search, and V8!). Without search I would not have found even half of this amazing content. Thank You!</h3>
+      <h3>Thank you to Microsoft for maintaining this great place to share code, And for providing so many great OS</h3>
+      <h3>Thnak you to all of the Open Source developers who put in massive amounts of time often FOR FREE! Thank YOU!</h3>
+      <h3>Thank you to The Linux team, The Android team, The Apple team, and all of the Hardware && Software engineers who have made so many new things possible!</h3>
+      <h3>Finally, Thank you to all the people who have supported me through all the years! You know who you are. Much love!</h3>
+      <h3>Thank You, Everyone!!!</h3>
     </ul>
 <hr>
 <h3>NOTE: The times listed are only an estimate of the time it took ME to complete these courses. You may be faster, or slower - Up to you!</h3>
