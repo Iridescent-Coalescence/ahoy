@@ -66,7 +66,7 @@ My journey:
     <ul>
       <li>Thank you to all of my teachers! Without you the world would surely not be so bright!</li>
       <li>Thank you to everyone who writes free informational articles! There are so many that I have bookmarked, and so many that I wish I had! Thank You!</li>
-      <li>Thank you to the Javascript contributors, and Node JS contributors!</li>
+      <li>Thank you to the HTML, CSS, && Javascript contributors, and Node JS contributors!</li>
       <li>Big shoutout to Google for maintaining such great engines (Both Search, and V8!). Without search I would not have found even half of this amazing content. Thank You!</li>
       <li>Thank you to Microsoft for maintaining this great place to share code, For VS Code, And for providing so many great OS!</li>
       <li>Thank you to all of the Open Source developers who put in massive amounts of time often FOR FREE! Thank YOU!</li>
@@ -74,7 +74,7 @@ My journey:
       <li>Thank you to all of the amazing musicians who make so many dope beats!</li>
       <li>Finally, Thank you to all the people who have supported me through all the years! You know who you are. Much love!</li>
       <li>Thank You, Everyone!!!</li>
-      <li>Thank You, Who!<li>
+      <li>Thank You, Who!</li>
     </ul>
 <hr>
 <h3>NOTE: The times listed are only an estimate of the time it took ME to complete these courses. You may be faster, or slower - Up to you!</h3>
