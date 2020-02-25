@@ -72,6 +72,7 @@ My journey:
       <h3>Thank you to The Linux team, The Android team, The Apple team, and all of the Hardware && Software engineers who have made so many new things possible!</h3>
       <h3>Finally, Thank you to all the people who have supported me through all the years! You know who you are. Much love!</h3>
       <h3>Thank You, Everyone!!!</h3>
+      <h3>Thank You, Who!<h3>
     </ul>
 <hr>
 <h3>NOTE: The times listed are only an estimate of the time it took ME to complete these courses. You may be faster, or slower - Up to you!</h3>
