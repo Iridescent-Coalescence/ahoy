@@ -71,14 +71,14 @@ My journey:
 <hr>
 <h2>AS OF FEB 2020</h2>
 
-<h3>Total <b>Money</b> Spent on Training:</h3>
+<h3>Total <i>Money</i> Spent on Training:</h3>
   <h4>Just Shy of <i>$100 USD</i></h4>
 
-<h3>Total Time spent on <b>Courses</b></h3>
+<h3>Total Time spent on <i>Courses</i></h3>
   <h4>~1135+ <i>hours</i></h4>
 
-<h3>Total Time spent <b>Practicing</b> && <b>Researching</b> && <b>Reading Docs</b>:</h3>
+<h3>Total Time spent <i>Practicing</i> && <i>Researching</i> && <i>Reading Docs</i>:</h3>
   <h4>(Est.) 900 <i>additional hours</i></h4>
 
-<h3>Estimated <b>Total Time Spent Training</b>:</h3>
+<h3>Estimated <i>Total Time Spent Training</i>:</h3>
   <h4>~2000+ <i>hours</i></h4>
